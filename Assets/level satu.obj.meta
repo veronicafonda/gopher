@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: 7f6a737e4ed872b43a070851a15396f8
+timeCreated: 1570257468
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bantal
+    100002: bantal001
+    100004: bingkai_kaca
+    100006: Box002
+    100008: Box003
+    100010: Box004
+    100012: Box005
+    100014: Box006
+    100016: Box007
+    100018: Box010
+    100020: Box011
+    100022: Box012
+    100024: buku_tutup003
+    100026: buku_tutup004
+    100028: ChamferBox001
+    100030: ChamferCyl001
+    100032: ChamferCyl002
+    100034: Cylinder002
+    100036: Cylinder003
+    100038: Cylinder009
+    100040: Cylinder010
+    100042: Cylinder014
+    100044: Cylinder015
+    100046: Cylinder016
+    100048: Cylinder017
+    100050: dome001
+    100052: dressing_table
+    100054: foto
+    100056: foto001
+    100058: gagang
+    100060: gagang_kanan
+    100062: gagang_kiri
+    100064: gambar
+    100066: kaca
+    100068: karpet
+    100070: karpet_2
+    100072: kasur002
+    100074: kasur003
+    100076: keranjang_baju
+    100078: kotak_depan
+    100080: kotak_depan001
+    100082: KUAS
+    100084: kuas_2
+    100086: kunci
+    100088: lampu
+    100090: //RootNode
+    100092: Line002
+    100094: LMARI_BUKU
+    100096: meja_kecil
+    100098: Object001
+    100100: Object002
+    100102: papan_bawah
+    100104: papan_bawah001
+    100106: ranjang
+    100108: ranjang001
+    100110: selimut
+    100112: selimut001
+    100114: tangga
+    100116: taplak
+    100118: tempat_sampah
+    100120: TEMPAT_TABUNG
+    100122: tutup_besi
+    100124: wastafel
+    400000: bantal
+    400002: bantal001
+    400004: bingkai_kaca
+    400006: Box002
+    400008: Box003
+    400010: Box004
+    400012: Box005
+    400014: Box006
+    400016: Box007
+    400018: Box010
+    400020: Box011
+    400022: Box012
+    400024: buku_tutup003
+    400026: buku_tutup004
+    400028: ChamferBox001
+    400030: ChamferCyl001
+    400032: ChamferCyl002
+    400034: Cylinder002
+    400036: Cylinder003
+    400038: Cylinder009
+    400040: Cylinder010
+    400042: Cylinder014
+    400044: Cylinder015
+    400046: Cylinder016
+    400048: Cylinder017
+    400050: dome001
+    400052: dressing_table
+    400054: foto
+    400056: foto001
+    400058: gagang
+    400060: gagang_kanan
+    400062: gagang_kiri
+    400064: gambar
+    400066: kaca
+    400068: karpet
+    400070: karpet_2
+    400072: kasur002
+    400074: kasur003
+    400076: keranjang_baju
+    400078: kotak_depan
+    400080: kotak_depan001
+    400082: KUAS
+    400084: kuas_2
+    400086: kunci
+    400088: lampu
+    400090: //RootNode
+    400092: Line002
+    400094: LMARI_BUKU
+    400096: meja_kecil
+    400098: Object001
+    400100: Object002
+    400102: papan_bawah
+    400104: papan_bawah001
+    400106: ranjang
+    400108: ranjang001
+    400110: selimut
+    400112: selimut001
+    400114: tangga
+    400116: taplak
+    400118: tempat_sampah
+    400120: TEMPAT_TABUNG
+    400122: tutup_besi
+    400124: wastafel
+    2300000: bantal
+    2300002: bantal001
+    2300004: bingkai_kaca
+    2300006: Box002
+    2300008: Box003
+    2300010: Box004
+    2300012: Box005
+    2300014: Box006
+    2300016: Box007
+    2300018: Box010
+    2300020: Box011
+    2300022: Box012
+    2300024: buku_tutup003
+    2300026: buku_tutup004
+    2300028: ChamferBox001
+    2300030: ChamferCyl001
+    2300032: ChamferCyl002
+    2300034: Cylinder002
+    2300036: Cylinder003
+    2300038: Cylinder009
+    2300040: Cylinder010
+    2300042: Cylinder014
+    2300044: Cylinder015
+    2300046: Cylinder016
+    2300048: Cylinder017
+    2300050: dome001
+    2300052: dressing_table
+    2300054: foto
+    2300056: foto001
+    2300058: gagang
+    2300060: gagang_kanan
+    2300062: gagang_kiri
+    2300064: gambar
+    2300066: kaca
+    2300068: karpet
+    2300070: karpet_2
+    2300072: kasur002
+    2300074: kasur003
+    2300076: keranjang_baju
+    2300078: kotak_depan
+    2300080: kotak_depan001
+    2300082: KUAS
+    2300084: kuas_2
+    2300086: kunci
+    2300088: lampu
+    2300090: Line002
+    2300092: LMARI_BUKU
+    2300094: meja_kecil
+    2300096: Object001
+    2300098: Object002
+    2300100: papan_bawah
+    2300102: papan_bawah001
+    2300104: ranjang
+    2300106: ranjang001
+    2300108: selimut
+    2300110: selimut001
+    2300112: tangga
+    2300114: taplak
+    2300116: tempat_sampah
+    2300118: TEMPAT_TABUNG
+    2300120: tutup_besi
+    2300122: wastafel
+    3300000: bantal
+    3300002: bantal001
+    3300004: bingkai_kaca
+    3300006: Box002
+    3300008: Box003
+    3300010: Box004
+    3300012: Box005
+    3300014: Box006
+    3300016: Box007
+    3300018: Box010
+    3300020: Box011
+    3300022: Box012
+    3300024: buku_tutup003
+    3300026: buku_tutup004
+    3300028: ChamferBox001
+    3300030: ChamferCyl001
+    3300032: ChamferCyl002
+    3300034: Cylinder002
+    3300036: Cylinder003
+    3300038: Cylinder009
+    3300040: Cylinder010
+    3300042: Cylinder014
+    3300044: Cylinder015
+    3300046: Cylinder016
+    3300048: Cylinder017
+    3300050: dome001
+    3300052: dressing_table
+    3300054: foto
+    3300056: foto001
+    3300058: gagang
+    3300060: gagang_kanan
+    3300062: gagang_kiri
+    3300064: gambar
+    3300066: kaca
+    3300068: karpet
+    3300070: karpet_2
+    3300072: kasur002
+    3300074: kasur003
+    3300076: keranjang_baju
+    3300078: kotak_depan
+    3300080: kotak_depan001
+    3300082: KUAS
+    3300084: kuas_2
+    3300086: kunci
+    3300088: lampu
+    3300090: Line002
+    3300092: LMARI_BUKU
+    3300094: meja_kecil
+    3300096: Object001
+    3300098: Object002
+    3300100: papan_bawah
+    3300102: papan_bawah001
+    3300104: ranjang
+    3300106: ranjang001
+    3300108: selimut
+    3300110: selimut001
+    3300112: tangga
+    3300114: taplak
+    3300116: tempat_sampah
+    3300118: TEMPAT_TABUNG
+    3300120: tutup_besi
+    3300122: wastafel
+    4300000: bantal
+    4300002: bantal001
+    4300004: bingkai_kaca
+    4300006: Box002
+    4300008: Box003
+    4300010: Box004
+    4300012: Box005
+    4300014: Box006
+    4300016: Box007
+    4300018: Box010
+    4300020: Box011
+    4300022: Box012
+    4300024: buku_tutup003
+    4300026: buku_tutup004
+    4300028: ChamferBox001
+    4300030: ChamferCyl001
+    4300032: ChamferCyl002
+    4300034: Cylinder002
+    4300036: Cylinder003
+    4300038: Cylinder009
+    4300040: Cylinder010
+    4300042: Cylinder014
+    4300044: Cylinder015
+    4300046: Cylinder016
+    4300048: Cylinder017
+    4300050: dome001
+    4300052: dressing_table
+    4300054: foto
+    4300056: foto001
+    4300058: gagang
+    4300060: gagang_kanan
+    4300062: gagang_kiri
+    4300064: gambar
+    4300066: kaca
+    4300068: karpet
+    4300070: karpet_2
+    4300072: kasur002
+    4300074: kasur003
+    4300076: keranjang_baju
+    4300078: kotak_depan
+    4300080: kotak_depan001
+    4300082: KUAS
+    4300084: kuas_2
+    4300086: kunci
+    4300088: lampu
+    4300090: Line002
+    4300092: LMARI_BUKU
+    4300094: meja_kecil
+    4300096: Object001
+    4300098: Object002
+    4300100: papan_bawah
+    4300102: papan_bawah001
+    4300104: ranjang
+    4300106: ranjang001
+    4300108: selimut
+    4300110: selimut001
+    4300112: tangga
+    4300114: taplak
+    4300116: tempat_sampah
+    4300118: TEMPAT_TABUNG
+    4300120: tutup_besi
+    4300122: wastafel
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box002Mat
+    second: {fileID: 2100000, guid: 4179dc35b9027374188f37d44a6368d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box003Mat
+    second: {fileID: 2100000, guid: 10b6b9bd4b1bcea49b66ac43838be1df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box004Mat
+    second: {fileID: 2100000, guid: 57220f42cf884e54481c4c8e2d62cde5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box005Mat
+    second: {fileID: 2100000, guid: 230c0cceebeb94247af1f395dd884bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box006Mat
+    second: {fileID: 2100000, guid: 57c79c2575ddc724192566dfccd30323, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box007Mat
+    second: {fileID: 2100000, guid: 59fbd51d00f98ec41842fbad93c65a62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box010Mat
+    second: {fileID: 2100000, guid: 0d7731bda032b044c9505beb86cb653a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box011Mat
+    second: {fileID: 2100000, guid: 8a17e7cadfc8f574e99ef61a06c37da7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box012Mat
+    second: {fileID: 2100000, guid: 6d3bbf0605e518c40818a7fce54c9fc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChamferBox001Mat
+    second: {fileID: 2100000, guid: 826d482ae860ae942884d72f06e1da8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChamferCyl001Mat
+    second: {fileID: 2100000, guid: 8eb007789a0eb564b953ba1d63df326d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChamferCyl002Mat
+    second: {fileID: 2100000, guid: 39c86bbde746ddc4c9532ae34a8b4636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder002Mat
+    second: {fileID: 2100000, guid: 5d597b03cc3598c41a66ac63a8f7476e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder003Mat
+    second: {fileID: 2100000, guid: 11036629501f6e8499fded5fb7c3f2e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder009Mat
+    second: {fileID: 2100000, guid: 0819ebfda877396429b23d25d8456d6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder010Mat
+    second: {fileID: 2100000, guid: cba1381e2ab5a8d428dc865e935754b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder014Mat
+    second: {fileID: 2100000, guid: c397bc949f1bda94097a0a3972bca021, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder015Mat
+    second: {fileID: 2100000, guid: 1b8fcb3d812adf44db5ed7e48eba626b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder016Mat
+    second: {fileID: 2100000, guid: f3cfb254573313b408bd3172c34433e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder017Mat
+    second: {fileID: 2100000, guid: 68288da9a97dee044842303938365786, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KUASMat
+    second: {fileID: 2100000, guid: 10bf249d462e03f448a939fe5a0aaab5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LMARI_BUKUMat
+    second: {fileID: 2100000, guid: b2e419f96a10dad42b37eb3b7999be88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line002Mat
+    second: {fileID: 2100000, guid: 3839bd5fdac0a5f42919c425734211fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object001Mat
+    second: {fileID: 2100000, guid: 2a26583bc45d4ef46a0ffe27bf601dbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object002Mat
+    second: {fileID: 2100000, guid: ddf9cf4763ae3284ebe283278b5ee3b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TEMPAT_TABUNGMat
+    second: {fileID: 2100000, guid: b2541ecf0354cd94da520f9e7dc3abb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bantal001Mat
+    second: {fileID: 2100000, guid: 5dea4e6c2d1adb942b1c77edd7be2c25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bantalMat
+    second: {fileID: 2100000, guid: 12c494f9ee7cd2a438386ab635d28015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bingkai_kacaMat
+    second: {fileID: 2100000, guid: 17aae30ca48e4fc468d9599355b853d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buku_tutup003Mat
+    second: {fileID: 2100000, guid: f7102a3a5dc9be54783f519be4751566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buku_tutup004Mat
+    second: {fileID: 2100000, guid: 53a8bf3bb48fe1c4c96603b98a82ec6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dome001Mat
+    second: {fileID: 2100000, guid: abb33823d70ff2344a2de22dad7f6193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dressing_tableMat
+    second: {fileID: 2100000, guid: 98dfc151fcd94494991d319baf2d15c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foto001Mat
+    second: {fileID: 2100000, guid: e2d03575a2137554bac4585025c7c0a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fotoMat
+    second: {fileID: 2100000, guid: 655a9716613432846b5cf4352cc75b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gagangMat
+    second: {fileID: 2100000, guid: dfa6889a84b60e9408686f0aa8c2592f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gagang_kananMat
+    second: {fileID: 2100000, guid: 9c66ff19a4dec534eb4556f898e4626b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gagang_kiriMat
+    second: {fileID: 2100000, guid: 0443e39f932efe74f964ac4bddae0248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gambarMat
+    second: {fileID: 2100000, guid: 3e97d497714975e44a67ff4551bcc540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kacaMat
+    second: {fileID: 2100000, guid: f6d9b1bde4b344c4390b435f2ba4ddab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: karpetMat
+    second: {fileID: 2100000, guid: f44afa3e573941a4d808eabaec963905, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: karpet_2Mat
+    second: {fileID: 2100000, guid: 9d3b020cfb4d3504b8e536e123962303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kasur002Mat
+    second: {fileID: 2100000, guid: af085023a565de248a953e4337511440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kasur003Mat
+    second: {fileID: 2100000, guid: ec2a64dfb0b7c2e40851eed26af93d06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: keranjang_bajuMat
+    second: {fileID: 2100000, guid: 754658f25537c9f49b40a74f617d14de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kotak_depan001Mat
+    second: {fileID: 2100000, guid: af5759a604451d64aa3c15457b4cde51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kotak_depanMat
+    second: {fileID: 2100000, guid: 8f356c0920533e541b0969fdc85114a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kuas_2Mat
+    second: {fileID: 2100000, guid: 31f0e091582b3304181bff1d6a0e824d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kunciMat
+    second: {fileID: 2100000, guid: f77636412d631af40acb13c720616eeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lampuMat
+    second: {fileID: 2100000, guid: 2b9a20d74e3a2ad4bb2c44a6a6fd40d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meja_kecilMat
+    second: {fileID: 2100000, guid: f7c10547bf232734ea3fd4f3d0dca157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papan_bawah001Mat
+    second: {fileID: 2100000, guid: 484f097ad5c45944e9c2aa4c183e8a10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papan_bawahMat
+    second: {fileID: 2100000, guid: d05810614ff7f7a45ba6c6d0795ce964, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ranjang001Mat
+    second: {fileID: 2100000, guid: c87b4feb455123443bc38c7e3543f9a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ranjangMat
+    second: {fileID: 2100000, guid: 72408f3543e14ad43a04e0a17635ba7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: selimut001Mat
+    second: {fileID: 2100000, guid: 0efe3af973125d94c918298c64c6bc2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: selimutMat
+    second: {fileID: 2100000, guid: 14f4d9f3f89684a499961a8d0fea75c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tanggaMat
+    second: {fileID: 2100000, guid: 80a3c4533551ee64b96524811a510bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taplakMat
+    second: {fileID: 2100000, guid: 7cb8e04be84d7634fa00d93bd60b0e07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tempat_sampahMat
+    second: {fileID: 2100000, guid: 6c4a791aca72b034ead322af87ab5686, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tutup_besiMat
+    second: {fileID: 2100000, guid: 6ab9d14e8dc5f6c4abe186c47ec85af4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wastafelMat
+    second: {fileID: 2100000, guid: 3434cf058b59c364893c23841fddb236, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

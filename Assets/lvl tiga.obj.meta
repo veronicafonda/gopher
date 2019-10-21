@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: 414025454f35c0e40863ad9298960eb4
+timeCreated: 1570266632
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bolongan
+    100002: bolongan002
+    100004: Box025
+    100006: Box026
+    100008: buku
+    100010: buku_tutup
+    100012: buku_tutup001
+    100014: buku_tutup002
+    100016: buku_tutup003
+    100018: Cylinder001
+    100020: Cylinder002
+    100022: Cylinder003
+    100024: dome001
+    100026: gantungan_topi
+    100028: gelas
+    100030: grampphone
+    100032: jamur
+    100034: jendela
+    100036: jeruji
+    100038: kaca
+    100040: karpet
+    100042: karpet_2
+    100044: kelopak
+    100046: kue003
+    100048: kue004
+    100050: kue02
+    100052: lampu
+    100054: //RootNode
+    100056: meja001
+    100058: PIRING
+    100060: Plane008
+    100062: Plane009
+    100064: Plane010
+    100066: Plane011
+    100068: pot
+    100070: rak_buku
+    100072: sandaran001
+    100074: shelf
+    100076: side_table
+    100078: Sphere001
+    100080: Sphere002
+    100082: Sphere003
+    100084: Sphere004
+    100086: topi
+    100088: TV
+    400000: bolongan
+    400002: bolongan002
+    400004: Box025
+    400006: Box026
+    400008: buku
+    400010: buku_tutup
+    400012: buku_tutup001
+    400014: buku_tutup002
+    400016: buku_tutup003
+    400018: Cylinder001
+    400020: Cylinder002
+    400022: Cylinder003
+    400024: dome001
+    400026: gantungan_topi
+    400028: gelas
+    400030: grampphone
+    400032: jamur
+    400034: jendela
+    400036: jeruji
+    400038: kaca
+    400040: karpet
+    400042: karpet_2
+    400044: kelopak
+    400046: kue003
+    400048: kue004
+    400050: kue02
+    400052: lampu
+    400054: //RootNode
+    400056: meja001
+    400058: PIRING
+    400060: Plane008
+    400062: Plane009
+    400064: Plane010
+    400066: Plane011
+    400068: pot
+    400070: rak_buku
+    400072: sandaran001
+    400074: shelf
+    400076: side_table
+    400078: Sphere001
+    400080: Sphere002
+    400082: Sphere003
+    400084: Sphere004
+    400086: topi
+    400088: TV
+    2300000: bolongan
+    2300002: bolongan002
+    2300004: Box025
+    2300006: Box026
+    2300008: buku
+    2300010: buku_tutup
+    2300012: buku_tutup001
+    2300014: buku_tutup002
+    2300016: buku_tutup003
+    2300018: Cylinder001
+    2300020: Cylinder002
+    2300022: Cylinder003
+    2300024: dome001
+    2300026: gantungan_topi
+    2300028: gelas
+    2300030: grampphone
+    2300032: jamur
+    2300034: jendela
+    2300036: jeruji
+    2300038: kaca
+    2300040: karpet
+    2300042: karpet_2
+    2300044: kelopak
+    2300046: kue003
+    2300048: kue004
+    2300050: kue02
+    2300052: lampu
+    2300054: meja001
+    2300056: PIRING
+    2300058: Plane008
+    2300060: Plane009
+    2300062: Plane010
+    2300064: Plane011
+    2300066: pot
+    2300068: rak_buku
+    2300070: sandaran001
+    2300072: shelf
+    2300074: side_table
+    2300076: Sphere001
+    2300078: Sphere002
+    2300080: Sphere003
+    2300082: Sphere004
+    2300084: topi
+    2300086: TV
+    3300000: bolongan
+    3300002: bolongan002
+    3300004: Box025
+    3300006: Box026
+    3300008: buku
+    3300010: buku_tutup
+    3300012: buku_tutup001
+    3300014: buku_tutup002
+    3300016: buku_tutup003
+    3300018: Cylinder001
+    3300020: Cylinder002
+    3300022: Cylinder003
+    3300024: dome001
+    3300026: gantungan_topi
+    3300028: gelas
+    3300030: grampphone
+    3300032: jamur
+    3300034: jendela
+    3300036: jeruji
+    3300038: kaca
+    3300040: karpet
+    3300042: karpet_2
+    3300044: kelopak
+    3300046: kue003
+    3300048: kue004
+    3300050: kue02
+    3300052: lampu
+    3300054: meja001
+    3300056: PIRING
+    3300058: Plane008
+    3300060: Plane009
+    3300062: Plane010
+    3300064: Plane011
+    3300066: pot
+    3300068: rak_buku
+    3300070: sandaran001
+    3300072: shelf
+    3300074: side_table
+    3300076: Sphere001
+    3300078: Sphere002
+    3300080: Sphere003
+    3300082: Sphere004
+    3300084: topi
+    3300086: TV
+    4300000: bolongan
+    4300002: bolongan002
+    4300004: Box025
+    4300006: Box026
+    4300008: buku
+    4300010: buku_tutup
+    4300012: buku_tutup001
+    4300014: buku_tutup002
+    4300016: buku_tutup003
+    4300018: Cylinder001
+    4300020: Cylinder002
+    4300022: Cylinder003
+    4300024: dome001
+    4300026: gantungan_topi
+    4300028: gelas
+    4300030: grampphone
+    4300032: jamur
+    4300034: jendela
+    4300036: jeruji
+    4300038: kaca
+    4300040: karpet
+    4300042: karpet_2
+    4300044: kelopak
+    4300046: kue003
+    4300048: kue004
+    4300050: kue02
+    4300052: lampu
+    4300054: meja001
+    4300056: PIRING
+    4300058: Plane008
+    4300060: Plane009
+    4300062: Plane010
+    4300064: Plane011
+    4300066: pot
+    4300068: rak_buku
+    4300070: sandaran001
+    4300072: shelf
+    4300074: side_table
+    4300076: Sphere001
+    4300078: Sphere002
+    4300080: Sphere003
+    4300082: Sphere004
+    4300084: topi
+    4300086: TV
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box025Mat
+    second: {fileID: 2100000, guid: bf5f251824428a9498d782caab4c1847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box026Mat
+    second: {fileID: 2100000, guid: 98fb2a2ab25a48f42a0e708ad23842df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder001Mat
+    second: {fileID: 2100000, guid: 4d982d9bd9ef7ff498a68233ef560a1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder002Mat
+    second: {fileID: 2100000, guid: 5d597b03cc3598c41a66ac63a8f7476e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder003Mat
+    second: {fileID: 2100000, guid: 11036629501f6e8499fded5fb7c3f2e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIRINGMat
+    second: {fileID: 2100000, guid: fab1f451671c814479f1243b72d91145, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane008Mat
+    second: {fileID: 2100000, guid: 5b0413db52ad30f4ea3cfa3b2a3fb478, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane009Mat
+    second: {fileID: 2100000, guid: 1bb1c3590d233734c89e947fac5daba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane010Mat
+    second: {fileID: 2100000, guid: f2a76038a7110de4d853010c7a929ba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane011Mat
+    second: {fileID: 2100000, guid: 135526cc1e49baa4bb8ad044e8df1e1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere001Mat
+    second: {fileID: 2100000, guid: 8e8a2de1d0f172a4fb5c5d974e59f208, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere002Mat
+    second: {fileID: 2100000, guid: 09320c47baeb0d04099c34464054231a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere003Mat
+    second: {fileID: 2100000, guid: 5ed6b7fa3fde8f5479b1adf65a62f907, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere004Mat
+    second: {fileID: 2100000, guid: f50249126df670747a9d99c217af5ed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TVMat
+    second: {fileID: 2100000, guid: 41456f6d2f326a441b0c4786c0508e20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bolongan002Mat
+    second: {fileID: 2100000, guid: 39de62ff9fa78594b9f342eca8ec7a6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bolonganMat
+    second: {fileID: 2100000, guid: 548b1e5cef654ac4f998ba685c7dd694, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bukuMat
+    second: {fileID: 2100000, guid: b4b60fd68a0c34d4898f18443649ea30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buku_tutup001Mat
+    second: {fileID: 2100000, guid: b530cbc7f5cd4b34ab5a3ff1680017c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buku_tutup002Mat
+    second: {fileID: 2100000, guid: 0a77b188d4a98fb47a1c504d8bc497eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buku_tutup003Mat
+    second: {fileID: 2100000, guid: f7102a3a5dc9be54783f519be4751566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buku_tutupMat
+    second: {fileID: 2100000, guid: a74db7dbe178a304c88e758d26a6b01e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dome001Mat
+    second: {fileID: 2100000, guid: abb33823d70ff2344a2de22dad7f6193, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gantungan_topiMat
+    second: {fileID: 2100000, guid: 92fab51db114e5540b34c71d83306036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gelasMat
+    second: {fileID: 2100000, guid: 38e5b3b55a198b840813b7ae34069937, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grampphoneMat
+    second: {fileID: 2100000, guid: 79982024a2adbfd4eb31e02b01741164, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jamurMat
+    second: {fileID: 2100000, guid: 5a7627ca67afe2d46881aa2c31e06a1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jendelaMat
+    second: {fileID: 2100000, guid: 072b8b37c43bba34ea327c030c6a78e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jerujiMat
+    second: {fileID: 2100000, guid: c3847169e7b9e8d48b17ebc9e1731371, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kacaMat
+    second: {fileID: 2100000, guid: f6d9b1bde4b344c4390b435f2ba4ddab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: karpetMat
+    second: {fileID: 2100000, guid: f44afa3e573941a4d808eabaec963905, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: karpet_2Mat
+    second: {fileID: 2100000, guid: 9d3b020cfb4d3504b8e536e123962303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kelopakMat
+    second: {fileID: 2100000, guid: 6bbbcab89db43af4da89cab0f24f0358, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kue003Mat
+    second: {fileID: 2100000, guid: 352fca3f096be6548823ea6dbde14baf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kue004Mat
+    second: {fileID: 2100000, guid: 4226b3897ac52ef419896ca334943255, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kue02Mat
+    second: {fileID: 2100000, guid: d8de038fb76f10643bd864cbcb9e8d55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lampuMat
+    second: {fileID: 2100000, guid: 2b9a20d74e3a2ad4bb2c44a6a6fd40d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: meja001Mat
+    second: {fileID: 2100000, guid: f4655121eb84a3d43bcf33260cf2648a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: potMat
+    second: {fileID: 2100000, guid: 9ec436c85ff629a4cad4a6f7e246e840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rak_bukuMat
+    second: {fileID: 2100000, guid: 824008b37c2f8f94dbe613ca0ca722e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sandaran001Mat
+    second: {fileID: 2100000, guid: aa2c9e8858dd98a48866531f9bc72977, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shelfMat
+    second: {fileID: 2100000, guid: 76aaf54edfc536746abce430648c53a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: side_tableMat
+    second: {fileID: 2100000, guid: adc77a72ad717b64c8dd6b5e81689c38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: topiMat
+    second: {fileID: 2100000, guid: bea6770165448214ea423a9b56278b5a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
