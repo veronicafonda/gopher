@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: b767756a2f0dd534aac77bd66aec1e0a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bantal
+    100002: bantal001
+    100004: bingkai kaca
+    100006: Box002
+    100008: Box003
+    100010: Box004
+    100012: Box005
+    100014: Box006
+    100016: Box007
+    100018: Box010
+    100020: Box011
+    100022: Box012
+    100024: buku_tutup003
+    100026: buku_tutup004
+    100028: ChamferBox001
+    100030: ChamferCyl001
+    100032: ChamferCyl002
+    100034: contoh
+    100036: Cylinder002
+    100038: Cylinder009
+    100040: Cylinder010
+    100042: Cylinder014
+    100044: Cylinder015
+    100046: Cylinder016
+    100048: Cylinder017
+    100050: dome
+    100052: dome001
+    100054: dressing table
+    100056: foto
+    100058: foto001
+    100060: gagang kanan
+    100062: gagang kiri
+    100064: gambar
+    100066: gambar 1
+    100068: jam
+    100070: kaca
+    100072: karpet
+    100074: karpet 2
+    100076: kasur002
+    100078: kasur003
+    100080: keranjang baju
+    100082: keranjang baju 1
+    100084: kotak depan
+    100086: kotak depan001
+    100088: KUAS
+    100090: kuas 2
+    100092: kunci
+    100094: lampu
+    100096: lampu 1
+    100098: lemari
+    100100: Line001
+    100102: Line002
+    100104: LMARI BUKU
+    100106: //RootNode
+    100108: meja kecil
+    100110: Object001
+    100112: Object002
+    100114: papan bawah
+    100116: papan bawah001
+    100118: peti
+    100120: ranjang
+    100122: ranjang001
+    100124: selimut
+    100126: selimut001
+    100128: tangga
+    100130: taplak
+    100132: tempat sampah
+    100134: TEMPAT TABUNG
+    100136: tutup besi
+    100138: wastafel
+    400000: bantal
+    400002: bantal001
+    400004: bingkai kaca
+    400006: Box002
+    400008: Box003
+    400010: Box004
+    400012: Box005
+    400014: Box006
+    400016: Box007
+    400018: Box010
+    400020: Box011
+    400022: Box012
+    400024: buku_tutup003
+    400026: buku_tutup004
+    400028: ChamferBox001
+    400030: ChamferCyl001
+    400032: ChamferCyl002
+    400034: contoh
+    400036: Cylinder002
+    400038: Cylinder009
+    400040: Cylinder010
+    400042: Cylinder014
+    400044: Cylinder015
+    400046: Cylinder016
+    400048: Cylinder017
+    400050: dome
+    400052: dome001
+    400054: dressing table
+    400056: foto
+    400058: foto001
+    400060: gagang kanan
+    400062: gagang kiri
+    400064: gambar
+    400066: gambar 1
+    400068: jam
+    400070: kaca
+    400072: karpet
+    400074: karpet 2
+    400076: kasur002
+    400078: kasur003
+    400080: keranjang baju
+    400082: keranjang baju 1
+    400084: kotak depan
+    400086: kotak depan001
+    400088: KUAS
+    400090: kuas 2
+    400092: kunci
+    400094: lampu
+    400096: lampu 1
+    400098: lemari
+    400100: Line001
+    400102: Line002
+    400104: LMARI BUKU
+    400106: //RootNode
+    400108: meja kecil
+    400110: Object001
+    400112: Object002
+    400114: papan bawah
+    400116: papan bawah001
+    400118: peti
+    400120: ranjang
+    400122: ranjang001
+    400124: selimut
+    400126: selimut001
+    400128: tangga
+    400130: taplak
+    400132: tempat sampah
+    400134: TEMPAT TABUNG
+    400136: tutup besi
+    400138: wastafel
+    2100000: 21 - Default
+    2100002: 17 - Default
+    2100004: 16 - Default
+    2100006: 20 - Default
+    2100008: 'Material #35'
+    2100010: 'Material #38'
+    2100012: 24 - Default
+    2100014: 18 - Default
+    2100016: 11 - Default
+    2100018: 22 - Default
+    2100020: 08 - Default
+    2100022: 23 - Default
+    2100024: 04 - Default
+    2100026: 'Material #2'
+    2100028: 12 - Default
+    2100030: 15 - Default
+    2100032: 06 - Default
+    2100034: 03 - Default
+    2100036: 05 - Default
+    2100038: 09 - Default
+    2100040: 13 - Default
+    2100042: 'Material #43'
+    2100044: No Name
+    2100046: 'Material #37'
+    2100048: 'Material #36'
+    2100050: 14 - Default
+    2100052: 19 - Default
+    2100054: 'Material #39'
+    2100056: 'Material #40'
+    2100058: 'Material #31'
+    2100060: Material__29
+    2100062: wire_006135058
+    2100064: 19___Default
+    2100066: 'Material #44'
+    2300000: bantal
+    2300002: bantal001
+    2300004: bingkai kaca
+    2300006: Box002
+    2300008: Box003
+    2300010: Box004
+    2300012: Box005
+    2300014: Box006
+    2300016: Box007
+    2300018: Box010
+    2300020: Box011
+    2300022: Box012
+    2300024: buku_tutup003
+    2300026: buku_tutup004
+    2300028: ChamferBox001
+    2300030: ChamferCyl001
+    2300032: ChamferCyl002
+    2300034: contoh
+    2300036: Cylinder002
+    2300038: Cylinder009
+    2300040: Cylinder010
+    2300042: Cylinder014
+    2300044: Cylinder015
+    2300046: Cylinder016
+    2300048: Cylinder017
+    2300050: dome
+    2300052: dome001
+    2300054: dressing table
+    2300056: foto
+    2300058: foto001
+    2300060: gagang kanan
+    2300062: gagang kiri
+    2300064: gambar
+    2300066: gambar 1
+    2300068: kaca
+    2300070: karpet
+    2300072: karpet 2
+    2300074: kasur002
+    2300076: kasur003
+    2300078: keranjang baju 1
+    2300080: kotak depan
+    2300082: kotak depan001
+    2300084: KUAS
+    2300086: kuas 2
+    2300088: kunci
+    2300090: lampu
+    2300092: lampu 1
+    2300094: Line002
+    2300096: LMARI BUKU
+    2300098: meja kecil
+    2300100: Object001
+    2300102: Object002
+    2300104: papan bawah
+    2300106: papan bawah001
+    2300108: ranjang
+    2300110: ranjang001
+    2300112: selimut
+    2300114: selimut001
+    2300116: tangga
+    2300118: taplak
+    2300120: tempat sampah
+    2300122: TEMPAT TABUNG
+    2300124: tutup besi
+    2300126: wastafel
+    3300000: bantal
+    3300002: bantal001
+    3300004: bingkai kaca
+    3300006: Box002
+    3300008: Box003
+    3300010: Box004
+    3300012: Box005
+    3300014: Box006
+    3300016: Box007
+    3300018: Box010
+    3300020: Box011
+    3300022: Box012
+    3300024: buku_tutup003
+    3300026: buku_tutup004
+    3300028: ChamferBox001
+    3300030: ChamferCyl001
+    3300032: ChamferCyl002
+    3300034: contoh
+    3300036: Cylinder002
+    3300038: Cylinder009
+    3300040: Cylinder010
+    3300042: Cylinder014
+    3300044: Cylinder015
+    3300046: Cylinder016
+    3300048: Cylinder017
+    3300050: dome
+    3300052: dome001
+    3300054: dressing table
+    3300056: foto
+    3300058: foto001
+    3300060: gagang kanan
+    3300062: gagang kiri
+    3300064: gambar
+    3300066: gambar 1
+    3300068: kaca
+    3300070: karpet
+    3300072: karpet 2
+    3300074: kasur002
+    3300076: kasur003
+    3300078: keranjang baju 1
+    3300080: kotak depan
+    3300082: kotak depan001
+    3300084: KUAS
+    3300086: kuas 2
+    3300088: kunci
+    3300090: lampu
+    3300092: lampu 1
+    3300094: Line002
+    3300096: LMARI BUKU
+    3300098: meja kecil
+    3300100: Object001
+    3300102: Object002
+    3300104: papan bawah
+    3300106: papan bawah001
+    3300108: ranjang
+    3300110: ranjang001
+    3300112: selimut
+    3300114: selimut001
+    3300116: tangga
+    3300118: taplak
+    3300120: tempat sampah
+    3300122: TEMPAT TABUNG
+    3300124: tutup besi
+    3300126: wastafel
+    4300000: LMARI BUKU
+    4300002: ranjang
+    4300004: kotak depan
+    4300006: papan bawah
+    4300008: selimut
+    4300010: bantal
+    4300012: dressing table
+    4300014: bingkai kaca
+    4300016: kaca
+    4300018: meja kecil
+    4300020: taplak
+    4300022: keranjang baju
+    4300024: gagang kiri
+    4300026: gagang kanan
+    4300028: Box004
+    4300030: Box002
+    4300032: Box003
+    4300034: Object002
+    4300036: contoh
+    4300038: foto
+    4300040: gambar
+    4300042: foto001
+    4300044: gambar
+    4300046: tutup besi
+    4300048: ChamferBox001
+    4300050: tempat sampah
+    4300052: karpet 2
+    4300054: karpet
+    4300056: Box005
+    4300058: Cylinder009
+    4300060: Box006
+    4300062: Box007
+    4300064: Cylinder010
+    4300066: dome
+    4300068: ranjang001
+    4300070: bantal001
+    4300072: kotak depan001
+    4300074: papan bawah001
+    4300076: selimut001
+    4300078: tangga
+    4300080: wastafel
+    4300082: ChamferCyl002
+    4300084: Line002
+    4300086: ChamferCyl001
+    4300088: Cylinder014
+    4300090: Cylinder015
+    4300092: Box012
+    4300094: Box011
+    4300096: Box010
+    4300098: kunci
+    4300100: lampu
+    4300102: lampu
+    4300104: Cylinder016
+    4300106: TEMPAT TABUNG
+    4300108: KUAS
+    4300110: kuas 2
+    4300112: dome001
+    4300114: Object001
+    4300116: Cylinder002
+    4300118: Cylinder017
+    4300120: buku_tutup003
+    4300122: buku_tutup004
+    4300124: kasur002
+    4300126: kasur003
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
